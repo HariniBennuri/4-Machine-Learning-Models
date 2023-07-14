@@ -18,7 +18,7 @@ Developed a Deep Learning model using keras and Tensorflow framework to categori
 Developed a Deep learning model using Fashion_Mnist dataset to identify and predict the various products that it contains. You can use the in built dataset found in Keras.datasets.
 
 
-*******************2.Penguin Species Classification**************e
+*******************2.Penguin Species Classification**************
 The palmerpenguins data contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica. The physical attributes measured are flipper length, beak length, beak width, body mass, and sex.
 Developed a Deep learning model to predict the penguin species using attributes of the species.
 
