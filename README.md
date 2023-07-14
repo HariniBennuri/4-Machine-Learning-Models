@@ -1,4 +1,4 @@
-# 4-Machine-Learning-Models :
+# 4-Deep-Learning-Models :
 
 # 1.Mobile Price Classification:   
  Mark has started his own mobile company. He wants to give tough fight to big companies like  
