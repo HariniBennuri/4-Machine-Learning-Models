@@ -23,6 +23,6 @@ The palmerpenguins data contains size measurements for three penguin species o
 Developed a Deep learning model to predict the penguin species using attributes of the species.
 
 
-#4.Heart Disease Prediction:
+# 4.Heart Disease Prediction:
 This dataset heart.csv gives a number of variables along with a target condition of having or not having heart disease.
 developed a deep learning model using only Tensorflow to use this data to create a model which tries to predict if a patient has this disease or not.
